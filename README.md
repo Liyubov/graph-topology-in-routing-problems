@@ -19,11 +19,11 @@ First u need for a quick start is to choose a graph for which u will run the alg
 
 <img src=https://github.com/NikitaNikolaevich/graph-topology-in-routing-problems/blob/main/images/osm.png width="600"/>
 
-## Main algorithm description 
-1. graph processing
-2. graph clustering
-3. construction of the clustered graph
-4. running algorithm on the clusterred graph
+## The algorithm short description 
+1. graph processing (operation on graph G)
+2. graph clustering (operation on graph G)
+3. construction of the clustered graph (graph Q from graph G construction)
+4. running algorithm on the clustered graph (operation on graph Q for finding shortest path from nodes from graph G)
 
 then all you need is a following code:
 
